@@ -1,6 +1,6 @@
 <h1 align="center"> Configuring Astro Beats </h1>
 
-<p align="center"> Astro Beat's Default Prefix is `.ab`. </p>
+<p align="center"> Astro Beat's Default Prefix is <code>.ab</code>. </p>
 
 ## Config Command
 
