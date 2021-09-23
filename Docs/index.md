@@ -11,8 +11,14 @@
 
 ### Supports:
 
-<a href="https://emoji.gg/emoji/6621-youtube"><img src="https://emoji.gg/assets/emoji/6621-youtube.png" width="16px" height="16px" alt="YouTube"></a> **YouTube**
+| Supports         | Description                                                               |
+|-----------------|---------------------------------------------------------------------------|
+| <a href="https://emoji.gg/emoji/6621-youtube"><img src="https://emoji.gg/assets/emoji/6621-youtube.png" width="16px" height="16px" alt="YouTube"></a> **YouTube**          | Search music thats on YouTube by song name or video url or even a playlist all **WITHOUT** using YouTubes API  |
+| <a href="https://emoji.gg/emoji/SpotifyLogo"><img src="https://emoji.gg/assets/emoji/SpotifyLogo.png" width="16px" height="16px" alt="SpotifyLogo"></a> **Spotify**        | Provide a Spotify song url or playlist and jam out with Astro Beats                          |                                                                                                                     |
+| <a href="https://emoji.gg/emoji/4678_SoundCloud"><img src="https://emoji.gg/assets/emoji/4678_SoundCloud.png" width="20px" height="20px" alt="SoundCloud"></a> **SoundCloud**! | Provide a SoundCloud song url or playlist and let the party begin.                                    | 
 
-<a href="https://emoji.gg/emoji/SpotifyLogo"><img src="https://emoji.gg/assets/emoji/SpotifyLogo.png" width="16px" height="16px" alt="SpotifyLogo"></a> **Spotify**
+## Developers
 
-<a href="https://emoji.gg/emoji/4678_SoundCloud"><img src="https://emoji.gg/assets/emoji/4678_SoundCloud.png" width="20px" height="20px" alt="SoundCloud"></a> **SoundCloud**! 
+|                      |                                                                                                                |
+|----------------------|----------------------------------------------------------------------------------------------------------------|
+| ![](https://cdn.discordapp.com/avatars/497837043955531776/0ef8245ef57965c1bffb00fd12960172.png) | FriiZoLoGYy#0666|
