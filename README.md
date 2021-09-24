@@ -23,6 +23,8 @@ Give a community member the power of the stars by assigning them the **DJ** 🎧
 
 🌐 [Website](https://astrobeats.xyz)
 
+[Patreon](https://www.patreon.com/AstroBeats)
+
 
 ## Features
 **24+** commands to rock 🎸 out with!
